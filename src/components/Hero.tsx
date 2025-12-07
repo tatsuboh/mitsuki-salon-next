@@ -50,18 +50,12 @@ const Hero = () => {
       {/* 背景装飾 */}
       <div className="absolute inset-0 overflow-hidden">
         {/* 星の装飾 */}
-        {Array.from({ length: 20 }).map((_, i) => (
-          <div
-            key={i}
-            className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle"
-            style={{
-              top: `${Math.random() * 100}%`,
-              left: `${Math.random() * 100}%`,
-              animationDelay: `${Math.random() * 2}s`,
-              animationDuration: `${Math.random() * 2 + 2}s`,
-            }}
-          />
-        ))}
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '10%', left: '15%', animationDelay: '0s' }} />
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '25%', left: '85%', animationDelay: '0.5s' }} />
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '60%', left: '20%', animationDelay: '1s' }} />
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '80%', left: '75%', animationDelay: '1.5s' }} />
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '35%', left: '65%', animationDelay: '0.8s' }} />
+        <div className="absolute w-2 h-2 bg-white/30 rounded-full animate-twinkle" style={{ top: '70%', left: '35%', animationDelay: '1.2s' }} />
         
         {/* グラデーション装飾 */}
         <div className="absolute top-0 left-0 w-full h-full">
