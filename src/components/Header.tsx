@@ -25,11 +25,12 @@ const Header = () => {
   };
 
   const navItems = [
+    { id: 'hero', label: 'ホーム' },
     { id: 'concept', label: 'コンセプト' },
-    { id: 'services', label: 'サービス' },
+    { id: 'services', label: 'メニュー' },
     { id: 'therapist', label: 'セラピスト' },
     { id: 'access', label: 'アクセス' },
-    { id: 'contact', label: '予約・問い合わせ' },
+    { id: 'contact', label: 'ご予約' },
   ];
 
   return (
