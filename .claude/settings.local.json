@@ -16,7 +16,12 @@
       "Bash(curl:*)",
       "Bash(npx next build:*)",
       "Bash(npx tsc:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(rm:*)",
+      "Bash(npm install)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(timeout 10s npm run dev)"
     ],
     "deny": []
   }
