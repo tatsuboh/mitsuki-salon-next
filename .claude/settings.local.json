@@ -21,7 +21,9 @@
       "Bash(npm install)",
       "Bash(pkill:*)",
       "Bash(true)",
-      "Bash(timeout 10s npm run dev)"
+      "Bash(timeout 10s npm run dev)",
+      "Bash(git rev-parse:*)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }
