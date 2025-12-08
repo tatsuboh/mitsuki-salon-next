@@ -52,7 +52,10 @@ const Header = () => {
                 alt="美月 MITSUKI ロゴ"
                 width={40}
                 height={40}
-                className="rounded-full animate-glow"
+                className="rounded-full animate-glow object-cover"
+                style={{
+                  aspectRatio: '1 / 1'
+                }}
               />
             </div>
             <div>
