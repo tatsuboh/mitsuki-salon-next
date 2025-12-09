@@ -15,11 +15,11 @@ const zenMaruGothic = Zen_Maru_Gothic({
 });
 
 export const metadata: Metadata = {
-  title: "美月 MITSUKI | ボディとハートの癒やしサロン",
+  title: "美月 MITSUKI | ボディとハートの癒しサロン",
   description: "大阪府泉佐野市のリラクゼーションサロン。もみほぐしと色彩セラピー・タロットを組み合わせた、心身ともに癒される特別な空間をご提供します。",
   keywords: "美月, MITSUKI, リラクゼーション, もみほぐし, 色彩セラピー, タロット, 泉佐野市, 大阪",
   openGraph: {
-    title: "美月 MITSUKI | ボディとハートの癒やしサロン",
+    title: "美月 MITSUKI | ボディとハートの癒しサロン",
     description: "大阪府泉佐野市のリラクゼーションサロン。もみほぐしと色彩セラピー・タロットを組み合わせた、心身ともに癒される特別な空間をご提供します。",
     locale: "ja_JP",
     type: "website",

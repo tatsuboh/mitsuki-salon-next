@@ -96,7 +96,7 @@ const Hero = () => {
           {/* サブタイトル */}
           <div className="space-y-2 animate-fadeInUp animation-delay-300">
             <p className="text-lg md:text-xl text-purple-800 font-medium">
-              ボディとハートの癒やし
+              ボディとハートの癒し
             </p>
             <p className="text-base md:text-lg text-purple-600">
               大阪府泉佐野市のリラクゼーションサロン
@@ -106,9 +106,9 @@ const Hero = () => {
           {/* サービス概要 */}
           <div className="max-w-2xl mx-auto space-y-4 animate-fadeInUp animation-delay-400">
             <p className="text-base md:text-lg text-purple-700 leading-relaxed">
-              心身の疲れを癒やす「もみほぐし」と<br />
+              心身の疲れを癒す「もみほぐし」と<br />
               内面を見つめる「色彩セラピー・タロット」を組み合わせた<br />
-              あなただけの特別な癒やしの時間をお提供します
+              あなただけの特別な癒しの時間をお提供します
             </p>
           </div>
 

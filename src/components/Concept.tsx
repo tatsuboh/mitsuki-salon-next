@@ -10,7 +10,7 @@ const Concept = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-purple-600 to-pink-600 mx-auto rounded-full" />
             <p className="text-xl md:text-2xl text-purple-700 font-medium">
-              ボディとハートの癒やし
+              ボディとハートの癒し
             </p>
           </div>
 
@@ -19,7 +19,7 @@ const Concept = () => {
             <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-3xl p-8 md:p-12 card-shadow">
               <p className="text-lg md:text-xl text-purple-800 leading-relaxed font-medium">
                 現代社会で疲れた心と体に、<br className="hidden sm:inline" />
-                真の癒やしと安らぎをお届けします
+                真の癒しと安らぎをお届けします
               </p>
             </div>
 
@@ -56,7 +56,7 @@ const Concept = () => {
                   </h3>
                   <p className="text-purple-700 leading-relaxed">
                     色彩セラピーとタロットを通じて内面と向き合い、
-                    心の声に耳を傾け、新しい気づきと癒やしを見つけます。
+                    心の声に耳を傾け、新しい気づきと癒しを見つけます。
                   </p>
                 </div>
               </div>
@@ -70,8 +70,8 @@ const Concept = () => {
                 </h3>
                 <p className="text-lg md:text-xl leading-relaxed">
                   ボディとハートの両方のケアを組み合わせることで、
-                  表面的な癒やしではなく、あなた本来の輝きを取り戻します。
-                  心身が調和した、本当の意味での「癒やし」をご体験ください。
+                  表面的な癒しではなく、あなた本来の輝きを取り戻します。
+                  心身が調和した、本当の意味での「癒し」をご体験ください。
                 </p>
               </div>
             </div>
