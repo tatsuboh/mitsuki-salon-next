@@ -46,13 +46,14 @@ const Header = () => {
             className="flex items-center space-x-3 cursor-pointer"
             onClick={() => scrollToSection('hero')}
           >
-            <div className="relative w-10 h-10 rounded-full overflow-hidden">
+            <div className="relative w-10 h-10">
+              <div className="absolute inset-0 rounded-full bg-gradient-to-br from-purple-400/20 to-pink-400/20 animate-pulse"></div>
               <Image
                 src="/logo.jpg"
                 alt="美月 MITSUKI ロゴ"
                 width={40}
                 height={40}
-                className="rounded-full animate-glow object-cover"
+                className="relative z-10 rounded-full animate-glow object-cover"
                 style={{
                   aspectRatio: '1 / 1'
                 }}
