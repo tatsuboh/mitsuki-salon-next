@@ -46,7 +46,7 @@ const Header = () => {
             className="flex items-center space-x-3 cursor-pointer"
             onClick={() => scrollToSection('hero')}
           >
-            <div className="relative">
+            <div className="relative w-10 h-10 rounded-full overflow-hidden">
               <Image
                 src="/logo.jpg"
                 alt="美月 MITSUKI ロゴ"
