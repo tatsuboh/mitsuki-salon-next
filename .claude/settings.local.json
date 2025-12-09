@@ -24,7 +24,8 @@
       "Bash(timeout 10s npm run dev)",
       "Bash(git rev-parse:*)",
       "Bash(ls:*)",
-      "Bash(touch:*)"
+      "Bash(touch:*)",
+      "WebFetch(domain:mitsuki-salon.netlify.app)"
     ],
     "deny": []
   }
