@@ -30,7 +30,7 @@ export default function Services() {
                 <p className="text-purple-100 max-w-2xl mx-auto">
                   色彩セラピーで心を整え　もみほぐしで身体に活力を
                   <br />
-                  心と身体に癒しをもたらします
+                  心と身体に癒やしをもたらします
                 </p>
               </div>
 
@@ -199,7 +199,7 @@ export default function Services() {
                 <br />
                 本当の願望と新たな可能性を見つけましょう
                 <br />
-                色彩の持つ力を使い、運気と癒しをもたらし
+                色彩の持つ力を使い、運気と癒やしをもたらし
                 <br />
                 あなたの理想とする未来へ近づくお手伝いをします
               </p>

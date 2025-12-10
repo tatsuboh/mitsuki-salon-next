@@ -15,7 +15,7 @@ export default function Footer() {
             />
             <div>
               <h1 className="text-lg text-pink-100 tracking-wider">美月</h1>
-              <p className="text-xs text-purple-400">ボディとハートの癒し</p>
+              <p className="text-xs text-purple-400">ボディとハートの癒やし</p>
             </div>
           </div>
 
@@ -37,7 +37,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-purple-800 text-center">
           <p className="text-purple-500 text-sm">
-            © 2024 美月 - ボディとハートの癒し. All rights reserved.
+            © 2024 美月 - ボディとハートの癒やし. All rights reserved.
           </p>
         </div>
       </div>

@@ -26,7 +26,6 @@ const Header = () => {
 
   const navItems = [
     { id: 'hero', label: 'ホーム' },
-    { id: 'concept', label: 'コンセプト' },
     { id: 'services', label: 'メニュー' },
     { id: 'therapist', label: 'セラピスト' },
     { id: 'access', label: 'アクセス' },

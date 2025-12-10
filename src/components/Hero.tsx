@@ -96,7 +96,7 @@ const Hero = () => {
           {/* サブタイトル */}
           <div className="space-y-2 animate-fadeInUp animation-delay-300">
             <p className="text-lg md:text-xl text-purple-800 font-medium">
-              ボディとハートの癒し
+              ボディとハートの癒やし
             </p>
             <p className="text-base md:text-lg text-purple-600">
               大阪府泉佐野市のリラクゼーションサロン
@@ -106,9 +106,8 @@ const Hero = () => {
           {/* サービス概要 */}
           <div className="max-w-2xl mx-auto space-y-4 animate-fadeInUp animation-delay-400">
             <p className="text-base md:text-lg text-purple-700 leading-relaxed">
-              心身の疲れを癒す「もみほぐし」と<br />
-              内面を見つめる「色彩セラピー・タロット」を組み合わせた<br />
-              あなただけの特別な癒しの時間をお提供します
+              色彩セラピーともみほぐしで<br />
+              あなたの心と身体に安らぎをお届けします
             </p>
           </div>
 
@@ -118,7 +117,7 @@ const Hero = () => {
               onClick={scrollToContact}
               className="px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-medium rounded-full hover:from-purple-700 hover:to-pink-700 transition-all duration-300 transform hover:scale-105 shadow-xl btn-hover"
             >
-              ご予約・お問い合わせ
+              ご予約はこちら
             </button>
             <a
               href="#services"
@@ -131,7 +130,7 @@ const Hero = () => {
               }}
               className="px-8 py-4 border-2 border-purple-600 text-purple-600 font-medium rounded-full hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105"
             >
-              サービス詳細
+              メニュー詳細
             </a>
           </div>
         </div>
